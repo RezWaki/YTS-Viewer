@@ -22,7 +22,7 @@ If you have any errors when starting the program, first of all try to install
 if it didn't help contact me for troubleshooting/fix.
 
 ## Contact?
-Wanna contact with me? Well, you can do it in a bunch of ways:
+Wanna contact me? Well, you can do it in a bunch of ways:
 
 [VKontakte](https://vk.com/glow_05)
 
